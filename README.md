@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Cristian Galvis, I am a physicist who's currently doing a Master's degree at Universidad Nacional de Colombia. In my research I am particulary interested in quantum computing; specifically in qubit state tomography. Nevertheless, I am currently getting into Quantum Cryptography and Quantum Machine Learning algorithms as well as its applications in Quantum Chemestry!
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagalvisf)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
