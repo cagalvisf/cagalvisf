@@ -6,6 +6,7 @@ Bellow you can see some stats abput my activity in GitHub. AS you can see I have
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagalvisf)](https://github.com/anuraghazra/github-readme-stats)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cagalvisf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Cristian-Galvis/)  
 <!--
 **cagalvisf/cagalvisf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
